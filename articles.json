@@ -1,0 +1,92 @@
+[
+    {
+        "name": "R软件绘图中文渲染解决方案",
+        "file": "https://static.exploro.one/pdf/r-cjk-font-rendering.pdf",
+        "date": "2021-03-07"
+    },
+    {
+        "name": "一个缓存配置案例",
+        "date": "2021-03-05",
+        "file": "https://static.exploro.one/pdf/proxy-case-study-1.pdf"
+    },
+    {
+        "name": "用向量方法巧解初中几何题",
+        "date": "2021-02-21",
+        "file": "https://static.exploro.one/pdf/geometry-vector-approach-1.pdf"
+    },
+    {
+        "name": "用 Celery 实现多台设备的协同工作",
+        "date": "2021-02-19",
+        "file": "https://static.exploro.one/pdf/celery-intro.pdf"
+    },
+    {
+        "name": "向量函数的导数：以神经网络的梯度下降方法为例",
+        "date": "2021-02-07",
+        "file": "https://static.exploro.one/pdf/vector-valued-function.pdf"
+    },
+    {
+        "name": "主成分分析教程",
+        "date": "2021-02-03",
+        "file": "https://static.exploro.one/pdf/pca-tutorial.pdf"
+    },
+    {
+        "name": "学习统计学习方法的思考与总结",
+        "date": "2021-02-02",
+        "file": "https://static.exploro.one/pdf/statistical-learning-methods.pdf"
+    },
+    {
+        "name": "三维物体在二维平面上的投影的计算",
+        "date": "2021-01-30",
+        "file": "https://static.exploro.one/pdf/cube.pdf"
+    },
+    {
+        "name": "几个向量化计算的小技巧",
+        "date": "2021-01-27",
+        "file": "https://static.exploro.one/pdf/vectorization-computing-intro.pdf"
+    },
+    {
+        "name": "将多个矩阵方程的求解并行化",
+        "date": "2021-01-27",
+        "file": "https://static.exploro.one/pdf/parallelization-of-solving-matrix-equations.pdf"
+    },
+    {
+        "name": "用 GPU 加速运行《生命游戏》",
+        "date": "2021-01-23",
+        "file": "https://static.exploro.one/pdf/automata-cuda.pdf"
+    },
+    {
+        "name": "神经网络教程",
+        "date": "2021-01-22",
+        "file": "https://static.exploro.one/pdf/neuralnet.pdf"
+    },
+    {
+        "name": "支持向量机的简单实现",
+        "date": "2021-01-19",
+        "file": "https://static.exploro.one/pdf/svm-intro.pdf"
+    },
+    {
+        "name": "基于 LSA 的文本索引技术初探",
+        "date": "2021-01-17",
+        "file": "https://static.exploro.one/pdf/semantic-indexing.pdf"
+    },
+    {
+        "name": "用 CUDA 在 GPU 上实现遗传算法",
+        "date": "2021-01-17",
+        "file": "https://static.exploro.one/pdf/gpu-tsp.pdf"
+    },
+    {
+        "name": "SVD 方法应用于矩阵近似",
+        "date": "2021-01-13",
+        "file": "https://static.exploro.one/pdf/svd-matrix-approximation.pdf"
+    },
+    {
+        "name": "并行化计算尝试",
+        "date": "2021-01-12",
+        "file": "https://static.exploro.one/pdf/gpu-accel.pdf"
+    },
+    {
+        "name": "更早期的文章",
+        "date": "2020-12-31之前",
+        "file": "https://beyondstars.xyz/"
+    }
+]
