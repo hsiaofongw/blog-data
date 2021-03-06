@@ -17,7 +17,8 @@
     {
         "link": "/ca/",
         "name": "自动机",
-        "newTab": false
+        "newTab": false,
+        "experimental": true
     },
     {
         "link": "/about/",
