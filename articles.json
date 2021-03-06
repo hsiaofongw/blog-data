@@ -2,91 +2,103 @@
     {
         "name": "R软件绘图中文渲染解决方案",
         "file": "https://static.exploro.one/pdf/r-cjk-font-rendering.pdf",
-        "date": "2021-03-07"
+        "date": "2021-03-07",
+        "description": "列出了两种常见的R软件中文绘图解决方案，解决了R软件用在mac操作系统下绘图时中文字体不能正常显示的问题．"
     },
     {
         "name": "一个缓存配置案例",
         "date": "2021-03-05",
-        "file": "https://static.exploro.one/pdf/proxy-case-study-1.pdf"
+        "file": "https://static.exploro.one/pdf/proxy-case-study-1.pdf",
+        "description": "通过一个NginX缓存配置案例分析缓存未能正常发挥作用的原因，介绍了RFC 7234，介绍了NginX缓存配置等．"
     },
     {
         "name": "用向量方法巧解初中几何题",
         "date": "2021-02-21",
-        "file": "https://static.exploro.one/pdf/geometry-vector-approach-1.pdf"
+        "file": "https://static.exploro.one/pdf/geometry-vector-approach-1.pdf",
+        "description": "用向量的方法来解决初中试卷上的简单几何问题能使问题变得简单．"
     },
     {
         "name": "用 Celery 实现多台设备的协同工作",
         "date": "2021-02-19",
-        "file": "https://static.exploro.one/pdf/celery-intro.pdf"
+        "file": "https://static.exploro.one/pdf/celery-intro.pdf",
+        "description": "多台设备能发挥更大的作用，而 Celery 就是使多台设备能够协同工作的解决方案的其中的一种，而 Celery 是基于 Python 的，这一点使它用起来非常简单．"
     },
     {
         "name": "向量函数的导数：以神经网络的梯度下降方法为例",
         "date": "2021-02-07",
-        "file": "https://static.exploro.one/pdf/vector-valued-function.pdf"
+        "file": "https://static.exploro.one/pdf/vector-valued-function.pdf",
+        "description": "我们先从数学的角度介绍了一元函数的导数，然后介绍了向量函数和雅克比矩阵，最后列举并且实现了一个神经网络的例子．"
     },
     {
         "name": "主成分分析教程",
         "date": "2021-02-03",
-        "file": "https://static.exploro.one/pdf/pca-tutorial.pdf"
+        "file": "https://static.exploro.one/pdf/pca-tutorial.pdf",
+        "description": "从线性代数的角度简单讲解主成分分析方法，使之变得容易理解和接受，文中亦有 NumPy 的实例．"
     },
     {
         "name": "学习统计学习方法的思考与总结",
         "date": "2021-02-02",
-        "file": "https://static.exploro.one/pdf/statistical-learning-methods.pdf"
+        "file": "https://static.exploro.one/pdf/statistical-learning-methods.pdf",
+        "description": "学习统计学习方法的一些简单总结和思考，提到了统计学习三要素、正则化、和常见的学习策略．"
     },
     {
         "name": "三维物体在二维平面上的投影的计算",
         "date": "2021-01-30",
-        "file": "https://static.exploro.one/pdf/cube.pdf"
+        "file": "https://static.exploro.one/pdf/cube.pdf",
+        "description": "将一个三维物体的表面看做是多个三角形的组合，从一点出发经过 Canvas ，判断每一条光线是否穿过三角形．"
     },
     {
         "name": "几个向量化计算的小技巧",
         "date": "2021-01-27",
-        "file": "https://static.exploro.one/pdf/vectorization-computing-intro.pdf"
+        "file": "https://static.exploro.one/pdf/vectorization-computing-intro.pdf",
+        "description": "向量化计算能大幅提升Flops，本文介绍几种简单的方法能快速应用到你现有的代码库中．"
     },
     {
         "name": "将多个矩阵方程的求解并行化",
         "date": "2021-01-27",
-        "file": "https://static.exploro.one/pdf/parallelization-of-solving-matrix-equations.pdf"
+        "file": "https://static.exploro.one/pdf/parallelization-of-solving-matrix-equations.pdf",
+        "description": "同时求解多个矩阵方程，充分利用已有算力，这样即使在没有 GPU 的条件下仍能实现很高的实际算力．"
     },
     {
         "name": "用 GPU 加速运行《生命游戏》",
         "date": "2021-01-23",
-        "file": "https://static.exploro.one/pdf/automata-cuda.pdf"
+        "file": "https://static.exploro.one/pdf/automata-cuda.pdf",
+        "description": "在 GPU 上实现元胞自动机的一个引例，注意到元胞自动机天然地适合并行化．"
     },
     {
         "name": "神经网络教程",
         "date": "2021-01-22",
-        "file": "https://static.exploro.one/pdf/neuralnet.pdf"
+        "file": "https://static.exploro.one/pdf/neuralnet.pdf",
+        "description": "神经网络不过是多个向量函数的复合，梯度下降和误差逆传播其实就是复合函数的求导．"
     },
     {
         "name": "支持向量机的简单实现",
         "date": "2021-01-19",
-        "file": "https://static.exploro.one/pdf/svm-intro.pdf"
+        "file": "https://static.exploro.one/pdf/svm-intro.pdf",
+        "description": "从线性分类器到核方法，支持向量机也可以很强大很优美．"
     },
     {
         "name": "基于 LSA 的文本索引技术初探",
         "date": "2021-01-17",
-        "file": "https://static.exploro.one/pdf/semantic-indexing.pdf"
+        "file": "https://static.exploro.one/pdf/semantic-indexing.pdf",
+        "description": "利用奇异值分解技术实现更加准确的文本检索．"
     },
     {
         "name": "用 CUDA 在 GPU 上实现遗传算法",
         "date": "2021-01-17",
-        "file": "https://static.exploro.one/pdf/gpu-tsp.pdf"
+        "file": "https://static.exploro.one/pdf/gpu-tsp.pdf",
+        "description": "同时演化每一个个体，在 GPU 中这不难做到．"
     },
     {
         "name": "SVD 方法应用于矩阵近似",
         "date": "2021-01-13",
-        "file": "https://static.exploro.one/pdf/svd-matrix-approximation.pdf"
+        "file": "https://static.exploro.one/pdf/svd-matrix-approximation.pdf",
+        "description": "帮助你更进一步理解奇异值分解技术，了解它的有趣应用之一．"
     },
     {
         "name": "并行化计算尝试",
         "date": "2021-01-12",
-        "file": "https://static.exploro.one/pdf/gpu-accel.pdf"
-    },
-    {
-        "name": "更早期的文章",
-        "date": "2020-12-31之前",
-        "file": "https://beyondstars.xyz/"
+        "file": "https://static.exploro.one/pdf/gpu-accel.pdf",
+        "description": "初探并行化计算，直观地感受它的加速效果，利用并行化方法来实现算力的更有效利用．"
     }
 ]
