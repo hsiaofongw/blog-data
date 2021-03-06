@@ -1,12 +1,14 @@
 [
     {
-        "name": "这个博客迎来了新的精神面貌",
+        "name": "记一次升级",
         "date": "2021-01-18",
-        "file": "https://static.exploro.one/pdf/blog-renew-2021.pdf"
+        "file": "https://static.exploro.one/pdf/blog-renew-2021.pdf",
+        "description": "这个博客迎来了新的精神面貌．"
     },
     {
-        "name": "友链提交方式",
+        "name": "联系方式",
         "date": "2021-01-18",
-        "file": "https://static.exploro.one/pdf/link-commit.pdf"
+        "file": "https://static.exploro.one/pdf/link-commit.pdf",
+        "description": "友链提交以及读者来信，注意是先链后友．"
     }
 ]
