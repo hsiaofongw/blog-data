@@ -100,5 +100,131 @@
         "date": "2021-01-12",
         "file": "https://static.exploro.one/pdf/gpu-accel.pdf",
         "description": "初探并行化计算，直观地感受它的加速效果，利用并行化方法来实现算力的更有效利用．"
+    },
+    {
+        "name": "动态规划实例：无重复字符的最长子串",
+        "date": "2020-08-30",
+        "file": "https://beyondstars.xyz/posts/longest-substring-no-repeating/",
+        "description": "对于学习和理解动态规划来说，这是一道良好的例题．对于这一题，我们可以列出特别简单的状态转移方程，并且也能够简单地将其实现．"
+    },
+    {
+        "name": "以 House Robber 问题为例讲解动态规划",
+        "date": "2020-08-25",
+        "file": "https://beyondstars.xyz/posts/dynamic-programming-intro/",
+        "description": "恰当地运用 Dynamic Programming 技巧能够有效地优化对特定问题的求解算法的执行效率：使空间复杂度和时间复杂度都大幅降低，本文以 LeetCode #198. House Robber 问题为例，介绍 Dynamic Programming 技巧的简单应用．"
+    },
+    {
+        "name": "通过问题转化巧解 Maximum Subarray 问题",
+        "date": "2020-08-23",
+        "file": "https://beyondstars.xyz/posts/solving-maximum-subarray/",
+        "description": "有时候，当我们面临一个问题并且感到不知所措的时候，不妨将问题进行适当的转化，这样做往往可以使解决方案浮现．"
+    },
+    {
+        "file": "https://beyondstars.xyz/posts/merge-two-sorted-array/",
+        "name": "合并两个已排序数组的几种方法",
+        "date": "2020-08-22",
+        "description": "针对简单的问题，在好奇心的激发下进行思考，也能找出多样化的解决方案．"
+    },
+    {
+        "file": "https://beyondstars.xyz/posts/longest-common-prefix-n-ary-tree-solution/",
+        "name": "Longest Common Prefix 问题基于 N-ary Tree 的解法",
+        "date": "2020-08-18",
+        "description": "借助于 N 元树数据结构的强大表现力，我们能将 Longest Common Prefix 问题（以下简称 LCP 问题）进行有效的抽象和化简，从而得以举重若轻地解决问题．"
+    },
+    {
+        "name": "图片旋转问题",
+        "file": "https://beyondstars.xyz/posts/leetcode-rotate-image/",
+        "date": "2020-08-17",
+        "description": "当图片的像素不算太大的时候，我们可以将整张图片完全读入到内存中，并且以二维数组的形式存储，通过原地(In-place)修改数组中的元素，我们可以对图片进行「旋转」变换．"
+    },
+    {
+        "name": "生成所有可能括号组合",
+        "file": "https://beyondstars.xyz/posts/generate-parentheses-base-on-desicion-procedures/",
+        "date": "2020-08-14",
+        "description": "我们且斗胆认为我们提出的这种方法更易于理解，我们将其记录在此，仅是出于记录和分享之目的．"
+    },
+    {
+        "file": "https://beyondstars.xyz/posts/4sum-problem-branch-and-bound-solution/",
+        "name": "4Sum 问题的分支定界求解思路及其实现",
+        "date": "2020-08-11",
+        "description": "这篇文章为解决 Leetcode 上的 4Sum 问题介绍了一种基于分支定界范式的求解算法，我们业已知道该算法对于求解这样的问题远非高效，但我们愿意对它做一些浅显的介绍．"
+    },
+    {
+        "file": "https://beyondstars.xyz/posts/implementing-a-rubkis-cube-in-mathematica/",
+        "name": "在 Mathematica 中实现魔方",
+        "date": "2020-05-09",
+        "description": "我们打算用Mathematica对现实中的一块魔方进行一个数学上的和软件上的建模，以此得以实现在电脑上玩魔方，研究魔方的数学性质，为进一步地研究魔方的解法奠定基础．"
+    },
+    {
+        "file": "https://beyondstars.xyz/posts/methods-telling-if-a-point-is-inside-some-polygon/",
+        "name": "判断一个点是否在一个多边形内部",
+        "date": "2020-05-01",
+        "description": "这就可以抽象为一般的问题：给定一点 Px，给定一组确定一个 n 边形的端点集 P1, P2, ..., Pn，判断点 Px 是否位于多边形 P1, ..., Pn 所围成的范围内."
+    },
+    {
+        "file": "https://beyondstars.xyz/posts/eight-queen-problem/",
+        "name": "8皇后问题的启发式解法",
+        "date": "2020-04-16",
+        "description": "8皇后问题具体是在一个8乘8的国际象棋棋盘上放置8个皇后，使每个皇后都不能攻击对方，也就是说每一行只能有一个皇后，每一列只能有一个皇后，每条45度线或者135度线也只能有一个皇后."
+    },
+    {
+        "file": "https://beyondstars.xyz/posts/linux-tools-recommendation-1/",
+        "name": "有限个有用的Linux命令行工具推荐",
+        "date": "2020-04-14",
+        "description": "在经过了一段时间的磨练之后，一般都会发现Linux的命令行界面操作起来是非常高效和方便的．"
+    },
+    {
+        "file": "https://beyondstars.xyz/posts/sudoku-mathematical-formulation/",
+        "name": "数独问题：数学解法",
+        "date": "2020-04-13",
+        "description": "我们尝试用数学方法来对其进行形式化，用数学的方式来讨论和研究数独问题．"
+    },
+    {
+        "file": "https://beyondstars.xyz/posts/openssl-certificates/",
+        "name": "HTTPS证书：原理、签发、部署和验证",
+        "date": "2020-04-08",
+        "description": "不管怎么说，你几乎找不到另外一种比HTTP应用得更广泛更流行的应用层协议．"
+    },
+    {
+        "file": "https://beyondstars.xyz/posts/symlink-vs-harlink/",
+        "name": "符号链接和硬链接的异同",
+        "date": "2020-04-01",
+        "description": "什么时候适合用硬链接？以及硬链接和符号链接（软链接）的差别和相似点在哪里？"
+    },
+    {
+        "file": "https://beyondstars.xyz/posts/traceroute-introduction/",
+        "name": "traceroute介绍：原理和实验",
+        "date": "2020-03-30",
+        "description": "在 Linux 系统中，系统管理员使用 traceroute（现在已被替换为 mtr ）命令来打印从本机发送到目标主机的数据包 (datagram) 所途经的中间节点的 IP 地址和延迟．"
+    },
+    {
+        "file": "https://beyondstars.xyz/posts/telling-static-file-accelerating-and-whole-site-accelerating/",
+        "date": "2020-03-26",
+        "name": "CDN 配置方法（下）",
+        "description": "我们在前面的一篇文章已经介绍了 CDN 的基本原理和基本的配置方式，但是你知道 CDN 还能够有别的配置方式吗？"
+    },
+    {
+        "file": "https://beyondstars.xyz/posts/cdn-deployment/",
+        "date": "2020-03-25",
+        "name": "CDN 配置方法（上）",
+        "description": "今天下午就突然想尝试一下部署CloudCone的CDN，这也是我第一次部署CDN，于是就有了这篇文章．"
+    },
+    {
+        "file": "https://beyondstars.xyz/posts/drawing-figures/",
+        "date": "2020-03-19",
+        "name": "绘图方法介绍",
+        "description": "在写论文或者是博客的时候，部分内容附以图片辅助说明，可能会使文章总体上看起来更加直观、生动和详实一些，那这些博客或者说是论文当中的插图 (Figures) 可以由哪些好用的工具来画呢？"
+    },
+    {
+        "file": "https://beyondstars.xyz/posts/correct-time-in-cloudcone-vps/",
+        "name": "修复 CloudCone VPS 无法自动同步时间的问题",
+        "date": "2020-03-18",
+        "description": "一步步发现问题并且解决问题"
+    },
+    {
+        "name": "Linux中的crontab命令的简单介绍及其用法",
+        "file": "https://beyondstars.xyz/posts/crontab-tutorial/",
+        "description": "crontab呢其实就是Linux操作系统中用来设置定时任务的一个工具，通过crontab我们可以在Linux操作系统中设置定时任务，也就是可以使得特定的任务在特定的时间得以执行，而且是周期式的．",
+        "date": "2020-03-16"
     }
 ]
